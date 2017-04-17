@@ -1,10 +1,6 @@
 <html>
 <h2><center><font size="15">Goofy Meme!</font></center></h2>
-<audio controls autoplay>
-  <source src="23153880.mp3" type="audio/mp3">
-</audio>
 <head>
-
 <style>
   * {
     padding: 0;
@@ -25,6 +21,9 @@
 </head>
 <body>
 
+<audio controls autoplay>
+  <source src="23153880.mp3" type="audio/mp3">
+</audio>
 <img class="center fit" src="EBjQFBM.jpg" >    
 
 <script src="http://code.jquery.com/jquery-latest.js"></script>
