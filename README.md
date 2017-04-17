@@ -14,6 +14,9 @@
     max-width: 100%;
     max-height: 100%;
   }
+  audio { 
+   display:none;
+}
   .center {
     display: block;
     margin: auto;
