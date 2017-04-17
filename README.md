@@ -1,6 +1,6 @@
 <html>
 <h2><center><font size="15">Goofy Meme!</font></center></h2>
-<audio controls>
+<audio controls autoplay>
   <source src="23153880.mp3" type="audio/mp3">
 </audio>
 <head>
