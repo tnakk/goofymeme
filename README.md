@@ -1,5 +1,5 @@
 <html>
-<h2><center><font size="6">Goofy Meme!</font></center></h2>
+<h2><center><font size="10">Goofy Meme!</font></center></h2>
 <head>
 <style>
   * {
