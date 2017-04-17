@@ -1,5 +1,5 @@
-<!DOCTYPE html>
 <html>
+<h2><center>Goofy Meme!</center></h2>
 <head>
 <style>
   * {
